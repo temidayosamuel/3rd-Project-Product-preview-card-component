@@ -1,0 +1,81 @@
+.card__image {
+  width: 290.1px;
+  border: 0;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.card__div {
+  background-color: white;
+  width: 290.1px;
+  border: 0;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.div--para {
+  letter-spacing: 5px;
+  font-size: 14px;
+  color: hsl(228, 12%, 48%);
+  padding-top: 10px;
+  padding-left: 10px;
+  font-family: "Montserrat";
+}
+
+.div__h1 {
+  font-family: "Fraunces";
+  padding: 5px;
+  color: hsl(212, 21%, 14%);
+}
+
+.div__p {
+  color: hsl(228, 12%, 48%);
+  font-family: "Montserrat";
+  padding: 5px;
+}
+
+.div__h2 {
+  font-family: "Fraunces";
+  font-size: 27px;
+  color: hsl(158, 36%, 37%);
+}
+
+.span__p {
+  color: hsl(228, 12%, 48%);
+  font-size: 14px;
+  text-decoration: line-through;
+  margin-left: 5px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.cart__button {
+  border: 0;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Montserrat";
+  color: white;
+  background-color: hsl(158, 36%, 37%);
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-right: 30px;
+  padding: 10px;
+  cursor: pointer;
+}
+.span__image {
+  padding: 20px;
+  justify-content: center;
+}
+
+.div--all {
+  padding: 15px;
+}
+
+.alls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
